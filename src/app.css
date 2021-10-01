@@ -47,3 +47,9 @@
   grid-template-columns: 220px 220px;
   align-items: baseline;
 }
+
+.app__healthLabels {
+  padding: 7px 8px;
+  margin-left: 6px;
+  border-radius: 5px;
+}
